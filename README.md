@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=jcamilc17&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcamilc17&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamilc17&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcamilc17/jcamilc17/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcamilc17/jcamilc17/output/github-snake.svg" />
