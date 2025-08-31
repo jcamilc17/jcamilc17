@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcamilc17&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamilc17&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Contributions
+![snake gif](https://github.com/jc.caldas23/jc.caldas23/blob/output/github-snake-dark.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jcamilc17&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
